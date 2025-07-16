@@ -1,7 +1,7 @@
 const BASE_URL = 'https://newsapi.org/v2';
 
 // Using the API key provided by the user
-const API_KEY = '4480027a31c54ec990e6924caee7f8e3';
+const API_KEY = 'ADD_YOUR_API_KEY_HERE!!';
 
 import { NewsAPIResponse, SearchParams } from '../types';
 
